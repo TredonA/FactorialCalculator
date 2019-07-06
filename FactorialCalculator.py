@@ -27,3 +27,5 @@ print("Value from the factorial function implemented by loop: " +
       str(factorialLoop(int(userNum))))
 print("Value from the factorial function implemented by recursion: " + 
       str(factorialRecursion(int(userNum))))
+
+# Another comment to practice Visual Studio Pushing
